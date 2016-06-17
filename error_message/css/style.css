@@ -1,0 +1,19 @@
+.message{
+background:#eeeeee;
+padding:10px;
+border:1px solid #ddd;
+margin:10px;
+border-radius:4px;
+font-size:22px;
+}
+
+.message.error{
+background:pink;
+border:1px solid red;
+}
+
+.message.success{
+background:lightgreen;
+border:1px solid green;
+}
+
