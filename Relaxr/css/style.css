@@ -109,14 +109,15 @@ header a.button {
 .benefits {
 	background-color: #f2f2f2;
 	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	margin-bottom:40px;
+	margin-bottom:20px;
+	padding: 20px;
 }
 
 .benefits h2 {
 	font-size: 42px;
 	font-weight: 500;
 	margin-left: 80px;
-	padding-top: 80px;
+	padding-top: 30px;
 }
 
 .benefits p {
@@ -132,6 +133,7 @@ header a.button {
 	}
 
 li {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	list-style-type: disc;
 	font-size: 28px;
 	font-weight: lighter;
@@ -156,9 +158,11 @@ li {
 	line-height: 40px;
 	clear: none;
 	padding-top: 40px;
-	padding-right: 0px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
 	padding-bottom: 40px;
-	padding-left: 0px;
 	} 
 	
 .signup {	
@@ -172,6 +176,8 @@ li {
  	background: #000;
 	color:#fff;
 }
+
+p
 
 footer {
 	background-color: #000;	
@@ -197,4 +203,6 @@ footer p {
 footer p img {
 	padding: 20px;
 	text-align: center;
+	box-sizing:content-box;
 }
+	
