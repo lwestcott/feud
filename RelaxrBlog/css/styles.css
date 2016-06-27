@@ -3,12 +3,12 @@
 
 body {
 	background-color:#EBEBEB;
-}
+	}
 
 .header {
     padding-left: 50px;
     background-color: #033048;
-}
+	}
 
 .wrapper {
 	margin:0 auto;
@@ -29,13 +29,13 @@ ul {
     padding:0;
     overflow:hidden;
 	padding: 20px;
-}
+	}
 
 li {
     float:right;
     text-decoration:none;
     color:#f9e42e;
-}
+	}
 
 li a {
     display:block;
@@ -45,14 +45,14 @@ li a {
     background-color:#033048;
     color:#f9e42e;;
 	text-decoration:none;
-}
+	}
 
 li a:hover {
 	background-color: #f9e42e;
 	color: #033048;
 	text-decoration: none;
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-}
+	}
 
 .columns {
 	margin:0 auto;
@@ -64,22 +64,22 @@ li a:hover {
 .left {
 	width: 700px;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
+	}
 
 .left h2 {
 	font-weight:500;
 	color: #033048;
 	width: 960px;
-}
+	}
 
 .left p {
 	color: #848484;
  	line-height: 20px;
-}
+	}
 	
 .firstcharacter { 
 	float: left; font-size: 64px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; 
-}
+	}
 
 .readmore {
 	color: #033048;
@@ -96,13 +96,13 @@ li a:hover {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: normal;
 	color: #848484;
-}
+	}
 
 .sidebar h2 {
 	color: #033048;
 	font-weight: 900;
 	padding-top: 30px;
-}
+	}
 
 .button {
 	display:block;
@@ -115,13 +115,13 @@ li a:hover {
 	text-align: center;
 	margin: auto;
 	padding: 10px 0px 0px 0px;
-}
+	}
 
 .signup {	
 	background: #F1E107;	
 	height:100px;
 	padding-top: 10px;
-}
+	}
 
 .signup a.button {
 	text-decoration: none;
@@ -129,11 +129,11 @@ li a:hover {
 	color: #fff;
 	font-weight: bold;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-}
+	}
 
 footer {
 	background-color: #000;	
-}
+	}
 
 footer h1 {
 	text-align: center;
@@ -142,7 +142,7 @@ footer h1 {
 	font-weight: 800;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	padding-top:40px;
-}
+	}
 
 footer p {
 	align: center;
@@ -150,10 +150,10 @@ footer p {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	text-align: center;
-}
+	}
 
 footer p img {
 	padding: 20px;
 	text-align: center;
-	box-sizing:content-box;
-}
+	box-sizing:content-box;	
+	}
