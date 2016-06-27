@@ -11,14 +11,12 @@ body {
 	}
 
 .wrapper {
-	width: 700px;
+	width: 1024px;
 	margin:0 auto;
 	}
 	
 .wrapper h1 {
-	float: left;
-	font: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
-	color: #FFF;8
+	color: #FFF;
 	font-weight: 800;
 	font-size: 28px;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
