@@ -1,0 +1,60 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	background:url(file:///C|/Users/lwest/OneDrive/Documents/GitHub/feud/responsive/img/austin-skyline.jpg);
+	background-size:cover;
+	overflow:auto;
+	width: 100%;
+	height: 300px;
+}
+
+.one_half {
+	align: top;
+}
+
+#main_nav li {
+	display:inline-block;
+	margin: 10px;}
+
+#main_nav li a {
+	text-decoration: none;
+	padding: 10px;
+	color: darkgray;
+	background: white;
+}
+
+#main_header {
+	font-size:22px;
+	padding: 30px;
+	background:rgba(255,255,255,0.5);
+	margin: 100px 20px;
+	text-align: center;
+}
+
+.one_half {
+	width: 50%;
+	box-sizing:border-box;
+	padding:20px;
+	display:inline-block;
+}
+
+.one_third {
+	width: 33.3%;
+	box-sizing:border-box;
+	padding:20px;
+	display:inline-block;
+}
+	
+#blue_section {
+	background-color:lightblue;
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        background-color: lightgreen;
+	}
+}
+

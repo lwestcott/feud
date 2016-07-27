@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#title {
+	font-size: 36px;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	line-height: 58px;
+	font-weight: 600;
+	color: #2E14D4;
+}
+#gallery img {
+	width: 100px;
+	height: 100px;
+	padding: 15px;
+}
+#main_image {
+	width: 400px;
+	height: 400px;
+}
+
